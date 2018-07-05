@@ -3,6 +3,8 @@
 
 The mass-spring-damper is the typical car suspension model. The wheel, having a proper mass, is attached to the car body with a damped spring. Many real-world systems can be modelled by the mass-spring-damper system. 
 
+![Screenshot](screenshot/model.png)
+
 ## GIF-demo
 
 ![Screenshot](screenshot/demo.gif)
