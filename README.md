@@ -14,12 +14,15 @@ The mass-spring-damper is the typical car suspension model. The wheel, having a 
 The mass spring damper summarizes the structure of a typical dynamical systems. The use of mass spring damper representation allow to translate physical equation into proper differential equation that once implemented (or solved) determine the proper temporal evolution of the corresponding system. 
 
 ![Screenshot](screenshot/mass.svg)
+
 ![Screenshot](screenshot/spring.svg)
+
 ![Screenshot](screenshot/damper.svg)
 
 The design of the process dynamics starts from the low level physical equations. Coming to the Mass-Spring-Damper example, one can write:
 
 ![Screenshot](screenshot/equation.svg)
+
 ![Screenshot](screenshot/fdt.svg)
 
 Where, which can be easily be implemented with the following schematic diagram:
